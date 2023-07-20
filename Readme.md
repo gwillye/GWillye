@@ -8,7 +8,7 @@ Neste meu GitHub você encontrará códigos e projetos desenvolvidos durante meu
 No momento, tenho conhecimentos e prática com: CSS, HTML5, Java, JavaScript, PHP8, Python, React.js e Vue.js. Utilizo Eclipse e Visual Studio Code, e tenho conhecimentos com IntelliJ e NetBeans.
 
 ## Entre em contato através de:
-#### Meu e-mail: gabrielwillye@gmail.com
-#### Meu numero: +55 067 99134-9936
+#### gabrielwillye@gmail.com / gwillyestudante@gmail.com
+#### +55 067 99134-9936
 #### [WhatsApp](https://api.whatsapp.com/send/?phone=%2B55067991349936&text&type=phone_number&app_absent=0)
 #### [LinkedIn](https://www.linkedin.com/in/gabrielwillye/)
