@@ -1,8 +1,6 @@
 # Boas vindas ao meu GitHub!
 
-Meu nome é **Gabriel Willye Borges Valençoela**, e eu tenho 21 anos. Sou natural de Campo Grande, MS, Brasil. Atualmente sou Data Scientist na AZ Tecnologia  e estou no último semestre de _Sistemas de Informação na Universidade Federal de Mato Grosso do Sul_.
-
-Estudo a área de Data&Analytics, com foco em Business Analytics and Strategy, Data Science, Analytics and Visualization.
+Meu nome é **Gabriel Willye Borges Valençoela**, tenho 22 anos e sou consultor em Analytics na Kearney.
 
 ## Entre em contato através de:
 #### Email: gabrielwillye@gmail.com / gwillyestudante@gmail.com
