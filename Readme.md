@@ -2,11 +2,6 @@
 
 <img alt="Gabriel Willye — Data Scientist · AI Engineer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&center=true&vCenter=true&width=720&height=80&color=22D3EE&lines=Gabriel+Willye;Data+Scientist+%C2%B7+AI+Engineer;I+turn+data+and+LLMs+into+shipped+systems" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gwillye/GWillye/output/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/gwillye/GWillye/output/snake.svg" width="780" />
-</picture>
-
 <br/>
 
 <a href="https://gwillye.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gwillye.github.io-0EA5E9?style=flat-square&logo=githubpages&logoColor=white" /></a>
