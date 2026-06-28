@@ -14,14 +14,6 @@
 
 **Data Scientist & AI Engineer** from Campo Grande, Brazil, with ~2 years building ML and data products end-to-end — from an LLM fiscal-audit agent over **180M+ records** to fraud scoring and BI that moved real numbers. I ship the demo, not just the notebook. BSc Information Systems @ UFMS · 🇧🇷 PT (native) · 🇬🇧 EN.
 
-## 🎬 Live demos &nbsp;·&nbsp; *click and play*
-
-| Demo | What | Stack |
-|---|---|---|
-| **[▶ Analytics dashboard](https://gwillye.github.io/compass/)** | Interactive Plotly dashboard from an AWS pipeline project | PySpark · AWS · Plotly |
-| **[▶ Movie catalog](https://gwillye.github.io/filmow/)** | Filmow-style app on the TMDB API | JS · TMDB |
-| **[▶ Doceria storefront](https://gwillye.github.io/doceria/)** | React storefront with cart | React · Vite |
-
 ## ⭐ Featured projects
 
 | Project | Highlight | Stack |
@@ -33,19 +25,6 @@
 | **[Demos_Repo](https://github.com/gwillye/Demos_Repo)** | 20+ runnable DS/ML/NLP demos, each with metrics | scikit-learn · numpy |
 
 <sub>→ everything else on the **[portfolio](https://gwillye.github.io)** and **[all repositories](https://github.com/gwillye?tab=repositories)**.</sub>
-
-## 💼 Experience
-
-| Role | Impact |
-|---|---|
-| **Data Scientist — Government / tax** | LLM fiscal-audit agent (RAG + TensorFlow), **180M+ records · 84%** |
-| **Data Scientist — Finance** | Asset-risk / fraud score (HDBSCAN + Random Forest) — **82%** |
-| **BI — Digital marketing** | Python BI/ETL → **−25% diagnosis time · +R$2M in contracts** |
-| **Business Analyst — Analytics** *(current)* | Analytics & decision-support, consulting |
-
-## 🧰 Tech
-
-<img alt="Tech stack" src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,aws,gcp,docker,sql,react,flask&perline=9" />
 
 ## 📊 GitHub
 
