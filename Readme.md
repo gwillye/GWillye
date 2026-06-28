@@ -2,9 +2,10 @@
 
 <img alt="Gabriel Willye — Data Scientist · AI Engineer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&center=true&vCenter=true&width=720&height=80&color=22D3EE&lines=Gabriel+Willye;Data+Scientist+%C2%B7+AI+Engineer;I+turn+data+and+LLMs+into+shipped+systems" />
 
-<a href="https://gwillye.github.io">
-  <img alt="Portfolio reel — charts from real projects" src="assets/portfolio-reel.gif" width="680" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gwillye/GWillye/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/gwillye/GWillye/output/snake.svg" width="780" />
+</picture>
 
 <br/>
 
@@ -36,20 +37,7 @@
 | **[face_recognition_organizer](https://github.com/gwillye/face_recognition_organizer)** | 100% offline — **~8,886 faces → ~61 people** | InsightFace · clustering |
 | **[Demos_Repo](https://github.com/gwillye/Demos_Repo)** | 20+ runnable DS/ML/NLP demos, each with metrics | scikit-learn · numpy |
 
-<details>
-<summary>📂 More projects</summary>
-
-<br/>
-
-**AI / ML** — [ncm_classifier](https://github.com/gwillye/ncm_classifier) · [CNN_MNIST](https://github.com/gwillye/CNN_MNIST) · [regressao_abalone](https://github.com/gwillye/regressao_abalone) · [ocr_translation_pipeline](https://github.com/gwillye/ocr_translation_pipeline) · [voice_id](https://github.com/gwillye/voice_id) · [BERT_Token_Classification](https://github.com/gwillye/BERT_Token_Classification)
-
-**Data / BI** — [social_scraper](https://github.com/gwillye/social_scraper) · [DataAnalytics_CompassUOL](https://github.com/gwillye/DataAnalytics_CompassUOL) · [stock_data_analysis](https://github.com/gwillye/stock_data_analysis) · [Web_Scraper_YouTube](https://github.com/gwillye/Web_Scraper_YouTube)
-
-**Web / Apps** — [filmow_desktop](https://github.com/gwillye/filmow_desktop) · [Alexandria](https://github.com/gwillye/Alexandria) · [UFMS_studies](https://github.com/gwillye/UFMS_studies)
-
-**More analytics** — [Kaggle_Analytics](https://github.com/gwillye/Kaggle_Analytics) · [youtube_watch_history_analyzer](https://github.com/gwillye/youtube_watch_history_analyzer) · [pet_social_networks](https://github.com/gwillye/pet_social_networks)
-
-</details>
+<sub>→ everything else on the **[portfolio](https://gwillye.github.io)** and **[all repositories](https://github.com/gwillye?tab=repositories)**.</sub>
 
 ## 💼 Experience
 
