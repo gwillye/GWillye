@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Gabriel Willye — Data Scientist · AI Engineer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&center=true&vCenter=true&width=720&height=80&color=22D3EE&lines=Gabriel+Willye;Data+Scientist+%C2%B7+AI+Engineer;I+turn+data+and+LLMs+into+shipped+systems" />
+<img alt="Gabriel Willye — Analytics Consultant · Data Scientist" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&center=true&vCenter=true&width=720&height=80&color=22D3EE&lines=Gabriel+Willye;Analytics+Consultant;Data+Scientist" />
 
 <br/>
 
